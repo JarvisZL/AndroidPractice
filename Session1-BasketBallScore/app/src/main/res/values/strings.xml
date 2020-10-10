@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasketBallScore</string>
+    <string name="textview1">Team1</string>
+    <string name="textview2">Team2</string>
+    <string name="defaultscore">0</string>
+    <string name="AddOne">+1</string>
+    <string name="AddTwo">+2</string>
+    <string name="AddThree">+3</string>
+    <string name="ResetButton">reset</string>
+    <string name="UndoButton">undo</string>
+</resources>

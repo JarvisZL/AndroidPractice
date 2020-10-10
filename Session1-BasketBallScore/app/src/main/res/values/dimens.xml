@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="ScoreSize">80sp</dimen>
+    <dimen name="ScoreSizeLand">65sp</dimen>
+</resources>
