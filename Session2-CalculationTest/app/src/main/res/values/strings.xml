@@ -1,5 +1,51 @@
 <resources>
     <string name="app_name">Session2-CalculationTest</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Welcome fragment-->
+    <string name="Welcome_message">Welcome to \nthe Calculation Test</string>
+    <string name="Begin_Challenge">Start</string>
+    <string name="Welcome_img_message" translatable="false">Welcome Img</string>
+    <string name="Highest_score">Record: %d</string>
+    <!-- Question fragment-->
+    <string name="Current_score">Current Score: %d</string>
+    <string name="Left_number" translatable="false">Left Number</string>
+    <string name="Right_number" translatable="false">Right Number</string>
+    <string name="Operator" translatable="false">Operator</string>
+    <string name="Equivalence" translatable="false">=</string>
+    <string name="Question_mark" translatable="false">\?</string>
+    <string name="Question_require">Your Answer:</string>
+    <string name="Button1_number" translatable="false">1</string>
+    <string name="Button2_number" translatable="false">2</string>
+    <string name="Button3_number" translatable="false">3</string>
+    <string name="Button4_number" translatable="false">4</string>
+    <string name="Button5_number" translatable="false">5</string>
+    <string name="Button6_number" translatable="false">6</string>
+    <string name="Button7_number" translatable="false">7</string>
+    <string name="Button8_number" translatable="false">8</string>
+    <string name="Button9_number" translatable="false">9</string>
+    <string name="Button0_number" translatable="false">0</string>
+    <string name="ButtonClear_number">Clear</string>
+    <string name="ButtonSubmit_number">Submit</string>
+    <string name="Correct_message">Correct! Please go on!</string>
+    <!-- Win fragment-->
+    <string name="Win_message">Congratulations! You Win!</string>
+    <string name="Win_score_message">New Record: %d</string>
+    <string name="Win_img_message" translatable="false">win img message</string>
+
+    <!-- Lose fragment-->
+    <string name="Lose_message">Sorry! You fail!</string>
+    <string name="Fail_score_message">Your score: %d</string>
+    <string name="Fail_img_message" translatable="false">fail img message</string>
+
+    <!-- Others -->
+    <string name="Back_button">Back</string>
+    <string name="SHP_Name" translatable="false">SHPForCalculate</string>
+    <string name="Key_Highest_score" translatable="false">key_highest_score</string>
+    <string name="Key_Current_score" translatable="false">key_current_score</string>
+    <string name="Key_Left_Num" translatable="false">key_left_num</string>
+    <string name="Key_Right_Num" translatable="false">key_right_num</string>
+    <string name="Key_Operator" translatable="false">key_operator</string>
+    <string name="Key_Answer" translatable="false">key_answer</string>
+    <string name="quit_check_message">Are you sure to quit?</string>
+    <string name="dialog_positive_message">OK</string>
+    <string name="dialog_negative_message">Cancel</string>
 </resources>

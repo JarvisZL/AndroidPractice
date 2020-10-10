@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Title_size">30sp</dimen>
+    <dimen name="Button_size">25sp</dimen>
+    <dimen name="Highest_Score_size">20sp</dimen>
+    <dimen name="Current_Score_size">20sp</dimen>
+    <dimen name="Question_size">60sp</dimen>
+    <dimen name="Question_Requie_size">40sp</dimen>
+    <dimen name="Result_Info_size">30sp</dimen>
+</resources>

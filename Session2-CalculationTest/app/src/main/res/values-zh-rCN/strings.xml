@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Session2-CalculationTest</string>
+    <string name="Welcome_message">欢迎来到口算测试</string>
+    <string name="Begin_Challenge">开始</string>
+    <string name="Highest_score">当前记录: %d</string>
+    <string name="Current_score">当前得分: %d</string>
+    <string name="Question_require">请输入你的答案:</string>
+    <string name="ButtonClear_number">清除</string>
+    <string name="ButtonSubmit_number">提交</string>
+    <string name="Correct_message">答对了！请继续！</string>
+    <string name="Win_message">恭喜你！获得胜利！</string>
+    <string name="Win_score_message">新纪录: %d</string>
+    <string name="Lose_message">对不起，挑战失败！</string>
+    <string name="Fail_score_message">你的得分: %d</string>
+    <string name="Back_button">返回</string>
+    <string name="quit_check_message">你确定退出吗？</string>
+    <string name="dialog_positive_message">确定</string>
+    <string name="dialog_negative_message">取消</string>
+</resources>
