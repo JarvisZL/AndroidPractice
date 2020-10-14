@@ -22,7 +22,7 @@ public class LoseFragment extends Fragment {
         // Required empty public constructor
     }
 
-    @Override
+    @Override 
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         //这里需要保证new ViewModelProvider()得到的是同一个provider所以统一使用activity而不是this.
