@@ -15,7 +15,6 @@ import com.example.session2_calculationtest.databinding.FragmentWinBinding;
 
 public class WinFragment extends Fragment {
 
-
     public WinFragment() {
         // Required empty public constructor
     }
